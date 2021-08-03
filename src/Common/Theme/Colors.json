@@ -1,0 +1,19 @@
+{
+    "white": "#ffffff",
+    "black": "#000000",
+    "ice-blue": " #A5F2F3",
+    "Gray98": "#fafafa",
+    "brightBlue": "#0b69ff",
+    "neonRed": "#ff0b37",
+    "lightgrey": "#f0f0f0",
+    "steel": "#7e858e",
+    "darkBlueGrey": "#171f46",
+    "yellowOrange": " #ffb800",
+    "whiteTwo": "#fbfbfb",
+    "lightBlueGrey": "#d7dfe9",
+    "whiteSmoke": " #f0f0f0",
+    "yellowOrange2": "#fff8e6",
+    "brightBlueOpacity": "rgba(11, 105, 255, 0.1)",
+    "greenishTeal": "#2dca73",
+    "darkBlueGreyOpacity": "rgba(23, 31, 70, 0.16)"
+}

@@ -1,0 +1,17 @@
+{
+    "travel_info":[
+        
+        {
+            "origin":"hyderabad",
+            "destination":"kurnool",
+            "flexible_with_time":true,
+            "start_datetime":"Thu Apr 31 2020 21:46:04 GMT+0530 (India Standard Time)",
+            "end_datetime":"Thu May 14 2020 21:46:04 GMT+0530 (India Standard Time)",
+            "datetime":"null",
+            "travel_medium":"BUS",
+            "assets_quantity":4,
+            "status":"ACTIVE"
+        }
+        ],
+    "no_of_travel_info":1
+}

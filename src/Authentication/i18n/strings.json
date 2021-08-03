@@ -1,0 +1,17 @@
+{
+    "name":"NAME",
+    "email":"EMAIL",
+    "gender":"GENDER",
+    "jobRole":"JOB ROLE",
+    "department":"DEPARTMENT",
+    "signUp":"SIGN UP",
+    "signUpFormHeading":"Hi there,please sign up",
+    "logInFormHeading":"Hi there,please log in",
+    "logIn":"LOG IN",
+    "logInLink":"Already, have an account?",
+    "logInLinkText":"Log in",
+    "signUpLink":"Don't have an account?",
+    "signUpLinkText":"Sign up",
+    "required":"Required",
+    "PasswordAlert":"choose a better password"
+}

@@ -1,0 +1,57 @@
+{
+    "text":{
+        "ride":"Ride",
+        "asset":"Asset",
+        "assetTranport":"Asset Transport",
+        "requests":"Requests",
+        "share":"Share",
+        "travelInfo":"Travel Info",
+        "PasswordAlert":"choose a better password",
+        "assetTranportRequest":"ASSET TRANSPORT REQUEST",
+        "flexibleTimings":"FLEXIBLE TIMINGS",
+        "request":"REQUEST",
+        "rideRequest":"RIDE REQUEST",
+        "noOfSeats":"NO OF SEATS",
+        "noOfLuggages":"NO OF LUGGAGES",
+        "noOfAssets":"NO OF ASSETS  ",
+        "shareRide":"SHARE RIDE  ",
+        "noOfSeatsAvailable":"NO OF SEATS",
+        "myRequests":"My Requests",
+        "shareText":"SHARE",
+        "travelInfo":"Travel Info",
+        "assetsQuantity":"ASSETS QUANTITY",
+        "travelMedium":"TRAVEL MEDIUM"
+    },
+    "type":{
+        "text":"text",
+        "checkbox":"checkbox"
+    },
+    "label":{
+        "dateAndTime":"DATE AND TIME",
+        "from":"FROM",
+        "to":"TO",
+        "noOfAssets":"NO OF ASSETS  ",
+        "whomToDeliver":"WHOM TO DELIVER  ",
+        "flexibleTimings":"Flexible Timings"
+    },
+    "placeholderText":{
+        "ex":"Ex:",
+        "nameMobileNumber":"Name-Mobile Number"
+    },
+    "navigatePageTo":{
+        "rideRequest":"rideRequest",
+        "assetTranportRequest":"assetTranportRequest",
+        "shareRide":"shareRide",
+        "shareTravelInfo":"shareTravelInfo",
+        "homePage":"homePage",
+        "userProfile":"userProfile"
+    },
+    "requestType":{
+        "ride":"ride",
+        "asset":"asset"
+    },
+    "shareType":{
+        "ride":"ride",
+        "travelInfo":"travelInfo"
+    }
+}

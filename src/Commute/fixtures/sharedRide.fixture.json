@@ -1,0 +1,61 @@
+{
+    "ride_shares":
+    [
+        {
+        "origin":"Nellore",
+        "destination":"kurnool",
+        "datetime":"null",
+        "flexible_with_time":true,
+        "start_datetime":"Thu Apr 31 2017 21:46:04 GMT+0530 (India Standard Time)",
+        "end_datetime":"Thu May 04 2020 10:46:04 GMT+0530 (India Standard Time)",
+        "no_of_seats":4,
+        "assets_quantity":3,
+        "status":"EXPIRED"
+    },
+    {
+        "origin":"Nellore",
+        "destination":"Kadapa",
+        "datetime":"null",
+        "flexible_with_time":true,
+        "start_datetime":"Thu Apr 31 2017 21:46:04 GMT+0530 (India Standard Time)",
+        "end_datetime":"Thu May 04 2020 10:46:04 GMT+0530 (India Standard Time)",
+        "no_of_seats":4,
+        "assets_quantity":3,
+        "status":"ACTIVE"
+    },
+    {
+        "origin":"Nellore",
+        "destination":"kurnool",
+        "datetime":"Thu Apr 31 2017 21:46:04 GMT+0530 (India Standard Time)",
+        "flexible_with_time":false,
+        "start_datetime":"null",
+        "end_datetime":"null",
+        "no_of_seats":6,
+        "assets_quantity":2,
+        "status":"EXPIRED"
+    },
+    {
+        "origin":"Nellore",
+        "destination":"kurnool",
+        "datetime":"null",
+        "flexible_with_time":true,
+        "start_datetime":"Thu Sep 31 2017 21:46:04 GMT+0530 (India Standard Time)",
+        "end_datetime":"Thu Dec 04 2020 10:46:04 GMT+0530 (India Standard Time)",
+        "no_of_seats":2,
+        "assets_quantity":3,
+        "status":"EXPIRED"
+    },
+    {
+        "origin":"Nellore",
+        "destination":"kurnool",
+        "datetime":"Thu Sep 31 2017 21:46:04 GMT+0530 (India Standard Time)",
+        "flexible_with_time":false,
+        "start_datetime":"null",
+        "end_datetime":"null",
+        "no_of_seats":4,
+        "assets_quantity":3,
+        "status":"ACTIVE"
+    }
+    ],
+    "count_of_ride_shares":5
+}

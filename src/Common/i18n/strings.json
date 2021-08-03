@@ -1,0 +1,9 @@
+{
+    "defaultDate":"2018-07-22",
+    "type":"date",
+    "incrementSymbol":"+",
+    "decrementSymbol":"-",
+    "from":"FROM",
+    "to":"TO",
+    "dateAndTime":"DATE AND TIME"
+}

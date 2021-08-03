@@ -1,0 +1,111 @@
+import styled from '@emotion/styled'
+import { Typo32DarkBlueGreyRubikRegular } from '../../styleGuides/StyleGuides.js'
+import colors from '../../../Common/Theme/Colors'
+
+export const MyRequestsHeader = styled.ul`
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+
+   border-bottom: 1px solid lightgrey;
+`
+export const MyRequestType = styled.button`
+   float: left;
+   display: block;
+   color: ${colors.black};
+   text-align: center;
+   padding: 10px 12px;
+   text-decoration: none;
+   border-bottom: 2px solid
+      ${props => (props.isSelected === true ? colors.brightBlue : 'none')};
+`
+export const MyRequestsTitle = styled(Typo32DarkBlueGreyRubikRegular)`
+   font-size: 20px;
+   width: 200px;
+`
+export const MyRequestsDashboard = styled.div`
+   width: 80%;
+   min-height: 500px;
+   align-self: center;
+`
+export const RequestHeader = styled.div`
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+`
+export const NoOfRequests = styled.span`
+   padding: 3px 4px;
+   align-self: center;
+`
+export const FilterAndSort = styled.div`
+   display: flex;
+   margin-left: ${props => (props.noOfRequests !== 0 ? '' : 'auto')};
+`
+export const Sort = styled.span`
+   padding: 10px 10px;
+`
+export const Filter = styled.span`
+   padding: 10px 10px;
+`
+export const RequestDetailsTable = styled.tbody`
+   font-family: arial, sans-serif;
+   border-collapse: collapse;
+   width: 100%;
+   height: 350px;
+`
+export const TableHeader = styled.th`
+   border: 1px solid #dddddd;
+   text-align: left;
+   padding: 8px;
+`
+export const TableCellLeftAligned = styled.td`
+   border: 1px solid #dddddd;
+   text-align: left;
+   padding: 8px;
+`
+export const TableRow = styled.tr`
+   height: 25px;
+`
+export const TableCellAlignedCenter = styled.td`
+   border: 1px solid #dddddd;
+   text-align: center;
+   padding: 8px;
+`
+export const Footer = styled.div`
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-bottom: auto;
+`
+export const AddRequestButton = styled.button`
+   display: flex;
+   padding: 5px 10px;
+`
+
+export const PageNumber = styled.div`
+   padding: 5px 10px;
+`
+export const StatusButton = styled.button`
+   padding: 3px 4px;
+   font-weight: bold;
+   font-size: 20px;
+   border-radius: 50%;
+   text-align: center;
+   border: 1px solid lightgrey;
+
+   color: ${colors.black};
+`
+export const Pages = styled.div`
+   text-align: center;
+`
+export const NoDataFound = styled.div`
+   width: 100%;
+   margin-top: 100px;
+   font-weight: bold;
+   font-size: 30px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+`
